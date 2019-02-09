@@ -4,7 +4,7 @@ url: phonegap-build/tools/collaboration
 layout: subpage
 ---
 
-Multple PhoneGap Build users may want to work simultaneously on the same application. This feature can be found in your app settings, under the *Collaboration* tab.
+Multiple PhoneGap Build users may want to work simultaneously on the same application. This feature can be found in your app settings, under the *Collaboration* tab.
 
 Collaborators are invited via their email address. If a user account exists with the specified email, that user will be added to the application as a collaborator. Otherwise an email will be sent to the address inviting the user to sign up on PhoneGap Build.
 
